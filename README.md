@@ -1,2 +1,1 @@
-- Hi, I’m Rajesh Srivastava (@genieincodebottle)
-- I’m into mainly AI, GenAI, ML, Coding etc
+
