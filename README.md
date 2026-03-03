@@ -1,8 +1,9 @@
+I'm Rajesh Srivastava - Sharing practical GenAI stuff that actually works.
+Building practical AI/ML systems that scale in production.
 
-I'm Rajesh Srivastava
+Creator of AI/ML Companion, an interactive and  production-focused AI/ML learning platform with 17 tracks, 215+ modules, 8 real-world capstones project, and continuous expansion of advanced, industry-grade projects across every track.
 
-Sharing practical GenAI stuff that actually works..
-
+👉 https://aimlcompanion.com/
 
 <div align="left">
     <a target="_blank" href="https://www.youtube.com/@genieincodebottle"><img src="https://img.shields.io/badge/YouTube-11.5K-blue"></a>&nbsp;
