@@ -4,9 +4,9 @@ Creator of AI/ML Companion, an interactive, production-focused AI/ML learning pl
 
 👉 https://aimlcompanion.com/
 
-![AI/ML Companion](https://github.com/genieincodebottle/generative-ai/blob/main/images/aiml-companion.png)
-
-
+<p align="center">
+  <img src="https://github.com/genieincodebottle/generative-ai/blob/main/images/aiml-companion.png" width="80%">
+</p>
 
 <div align="left">
     <a target="_blank" href="https://www.youtube.com/@genieincodebottle"><img src="https://img.shields.io/badge/YouTube-11.5K-blue"></a>&nbsp;
